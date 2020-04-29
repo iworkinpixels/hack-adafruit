@@ -1,7 +1,7 @@
 
 # Hack Adafruit
 
-To use this to make the $ in your bash prompt into the Adafruit flower, just install the font and then include a U+2154 character (⇴) surrounded by spaces at the end of your $PS1. Then make sure your terminal uses the new font.
+To use this to make the $ in your bash prompt into the Adafruit flower, just install build/ttf/HackAdafruit-Regular.ttf and then include a U+2154 character (⇴) surrounded by spaces at the end of your $PS1. Then make sure your terminal uses the new font.
 
 Original Hack README follows.
 
