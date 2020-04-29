@@ -1,5 +1,9 @@
 
-# Hack
+# Hack Adafruit
+
+To use this to make the adafruit flower into the $ in your bash prompt, just install the font and then include a U+2154 character (⇴) surrounded by spaces at the end of your $PS1. Then make sure your terminal uses the new font.
+
+Original Hack README follows.
 
 [![GitHub release](https://img.shields.io/github/release/source-foundry/hack.svg?style=flat)](https://github.com/source-foundry/Hack/releases/latest)
 [![Build Status](https://semaphoreci.com/api/v1/sourcefoundry/hack/branches/master/shields_badge.svg)](https://semaphoreci.com/sourcefoundry/hack)
